@@ -64,6 +64,3 @@ Mosca exposure uses inferred data confidentiality lifetime `X`, migration time `
 
 ECDAT is a static discovery and assessment tool. It is not a replacement for formal cryptographic validation, penetration testing, certificate authority operations, or a complete software composition analysis platform. Findings should be reviewed by a security engineer before production migration decisions.
 
-## License
-
-Add the project license before publication.
